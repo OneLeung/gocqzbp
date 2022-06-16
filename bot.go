@@ -160,7 +160,7 @@ import (
 )
 
 var (
-	nicks  = []string{"初音酱", "Miku", "初音","初音ミク"}
+	nicks  = []string{"小初音", "Miku", "初音"}
 	adana  *string
 	prefix *string
 )
